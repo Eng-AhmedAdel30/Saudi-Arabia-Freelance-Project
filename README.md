@@ -22,7 +22,10 @@ The project involves extracting data and content from an existing Word report an
 
 Screenshots of the target dashboard are provided below. **Data has been intentionally blurred for confidentiality purposes.**
 
-> *[Attach your blurred screenshots here]*
+![HomePage](Homepage.png)
+![Page1](page2_blur.jpeg)
+![Page2](page1_blur.jpeg)
+
 
 ---
 
